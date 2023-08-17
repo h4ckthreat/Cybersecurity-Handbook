@@ -655,7 +655,9 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se tornar um profis
 
 ## 💰 Sites de Bug Bounty
 
+- [HackerOne - Bug Bounty Programs](https://hackerone.com/bug-bounty-programs)
 - [Bug Crowd - Bug Bounty List](https://www.bugcrowd.com/bug-bounty-list/)
+- [BugHunt - Programas Públicos](https://www.bughunt.com.br/programas-publicos.html)
 
 ## 🦤 Perfis no Twitter
 
