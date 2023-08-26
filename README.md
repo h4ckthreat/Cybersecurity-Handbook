@@ -90,7 +90,7 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se tornar um profis
 [🃏 CheatSheets](#-cheatsheets) <br>
 [♟️ Exploitation](#%EF%B8%8F-exploitation) <br>
 [🎬 Documentários](#-documentários) <br>
-[📼 Filmes & Séries](#-filmes-&-séries) <br>
+[📼 Filmes e Séries](#-filmes-e-séries) <br>
 [🚩 Capture the Flag](#-capture-the-flag) <br>
 [🐧 Distros de Linux](#-distros-de-linux) <br>
 [💻 Máquinas Virtuais](#-máquinas-virtuais) <br>
@@ -575,7 +575,7 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se tornar um profis
 - [The Life Hacker Documentary](https://lnkd.in/djAqBhbw)
 - [Hacker The Realm and Electron - Hacker Group](https://lnkd.in/dx_uyTuT)
 
-## 📼 Filmes & Séries
+## 📼 Filmes e Séries
 
 - [Mr. Robot - Sociedade Hacker](https://www.primevideo.com/detail/0ND5POOAYD6A4THTH7C1TD3TYE/ref=atv_sr_fle_c_Tn74RA_1_1_1?sr=1-1&pageTypeIdSource=ASIN&pageTypeId=B01MG2G8V7&qid=1693019742298)
 
