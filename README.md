@@ -578,6 +578,7 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se tornar um profis
 ## 📼 Filmes e Séries
 
 - [Mr. Robot - Sociedade Hacker](https://www.primevideo.com/detail/0ND5POOAYD6A4THTH7C1TD3TYE/ref=atv_sr_fle_c_Tn74RA_1_1_1?sr=1-1&pageTypeIdSource=ASIN&pageTypeId=B01MG2G8V7&qid=1693019742298)
+- [Don't F**k with Cats: Uma Caçada Online](https://www.netflix.com/br/title/81031373)
 
 ## 🚩 Capture the Flag
 
