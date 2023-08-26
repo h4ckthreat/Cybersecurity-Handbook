@@ -574,6 +574,10 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se tornar um profis
 - [The Life Hacker Documentary](https://lnkd.in/djAqBhbw)
 - [Hacker The Realm and Electron - Hacker Group](https://lnkd.in/dx_uyTuT)
 
+## 📼 Filmes & Séries
+
+- [Mr. Robot - Sociedade Hacker](https://www.primevideo.com/detail/0ND5POOAYD6A4THTH7C1TD3TYE/ref=atv_sr_fle_c_Tn74RA_1_1_1?sr=1-1&pageTypeIdSource=ASIN&pageTypeId=B01MG2G8V7&qid=1693019742298)
+
 ## 🚩 Capture the Flag
 
 - [Hacker 101](https://www.hackerone.com/hackers/hacker101)
