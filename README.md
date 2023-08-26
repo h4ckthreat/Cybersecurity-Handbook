@@ -90,7 +90,7 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se tornar um profis
 [🃏 CheatSheets](#-cheatsheets) <br>
 [♟️ Exploitation](#%EF%B8%8F-exploitation) <br>
 [🎬 Documentários](#-documentários) <br>
-[📼 Filmes & Séries](#) <br>
+[📼 Filmes & Séries](#-filmes-&-séries) <br>
 [🚩 Capture the Flag](#-capture-the-flag) <br>
 [🐧 Distros de Linux](#-distros-de-linux) <br>
 [💻 Máquinas Virtuais](#-máquinas-virtuais) <br>
