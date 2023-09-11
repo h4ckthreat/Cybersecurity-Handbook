@@ -577,6 +577,7 @@
 
 ## 📼 Filmes e Séries
 
+- [Caçada Virtual: Operação Takedown](https://ok.ru/video/1634343914144)
 - [Mr. Robot - Sociedade Hacker](https://www.primevideo.com/detail/0ND5POOAYD6A4THTH7C1TD3TYE/ref=atv_sr_fle_c_Tn74RA_1_1_1?sr=1-1&pageTypeIdSource=ASIN&pageTypeId=B01MG2G8V7&qid=1693019742298)
 - [Don't F**k with Cats: Uma Caçada Online](https://www.netflix.com/br/title/81031373)
 - [O Jogo da Imitação](https://www.netflix.com/title/70295172)
