@@ -219,6 +219,7 @@
 - [The Hacker News](https://thehackernews.com/)
 - [Infosecurity Magazine](https://www.infosecurity-magazine.com/)
 - [CSO Online](https://www.csoonline.com/)
+- [CISO Advisor Notícias de Cibersegurança e Segurança da Informação](https://www.cisoadvisor.com.br/)
 - [The State of Security - Tripwire](https://www.tripwire.com/state-of-security/)
 - [The Last Watchdog](https://www.lastwatchdog.com/)
 - [Naked Security](https://nakedsecurity.sophos.com/)
