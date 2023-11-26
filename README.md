@@ -2,10 +2,10 @@
   <a href="https://github.com/h4ckthreat/guiadecybersecurity">
     <img src="./images/guia.png" alt="Guia de Cyber Security" width="160" height="160">
   </a>
-  <h1 align="center">☣️Cybersecurity Guide☣️</h1>
+  <h1 align="center">☣️cybersecurity Handbook☣️</h1>
 </p>
 
-## :dart: O guia para alavancar a sua carreira
+## :dart: Um manual para impulsionar sua trajetória profissional.
 
 <p align="justify">Abaixo você encontrará conteúdos para te guiar e ajudar a se tornar um profissional na área de segurança da informação ou se especializar caso você já atue na área, confira o repositório para descobrir novas ferramentas para o seu dia-a-dia, tecnologias para incorporar na sua stack com foco em se tornar um profissional atualizado e diferenciado em segurança da informação, alguns sites ou artigos podem estar em um idioma diferente do seu, porém isso não impede que você consiga realizar a leitura do artigo ou site em questão, você pode utilizar a ferramenta de tradução do Google para traduzir: sites, arquivos, textos.</p>
 
