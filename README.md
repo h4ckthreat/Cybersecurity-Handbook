@@ -7,9 +7,9 @@
 
 ## :dart: Um manual para impulsionar sua trajetória profissional.
 
-<p align="justify">"Abaixo, você encontrará um rico acervo de recursos destinados a orientar e elevar seu status como profissional na área de segurança da informação. Seja para iniciar sua jornada ou aprimorar suas habilidades já consolidadas, explore este repositório para descobrir novas ferramentas que podem otimizar seu dia a dia, bem como tecnologias que podem ser incorporadas à sua pilha de conhecimento, capacitando-o a se destacar como um profissional atualizado e diferenciado em segurança da informação.
+<p align="justify">Abaixo, você encontrará um rico acervo de recursos destinados a orientar e elevar seu status como profissional na área de segurança da informação. Seja para iniciar sua jornada ou aprimorar suas habilidades já consolidadas, explore este repositório para descobrir novas ferramentas que podem otimizar seu dia a dia, bem como tecnologias que podem ser incorporadas à sua pilha de conhecimento, capacitando-o a se destacar como um profissional atualizado e diferenciado em segurança da informação.</p>
 
-Este repositório abrange uma gama diversificada de conteúdos, e embora alguns sites ou artigos possam estar em idiomas diferentes do seu, isso não é obstáculo. A ferramenta de tradução do Google está à sua disposição para transformar barreiras linguísticas em oportunidades de aprendizado. Não hesite em explorar, traduzir e absorver o conhecimento que impulsionará sua carreira na fascinante e crucial área da segurança da informação."</p>
+<p align="justify"> Este repositório abrange uma gama diversificada de conteúdos, e embora alguns sites ou artigos possam estar em idiomas diferentes do seu, isso não é obstáculo. A ferramenta de tradução do Google está à sua disposição para transformar barreiras linguísticas em oportunidades de aprendizado. Não hesite em explorar, traduzir e absorver o conhecimento que impulsionará sua carreira na fascinante e crucial área da segurança da informação.</p>
 
 <sub> <strong>Siga nas redes sociais para acompanhar mais conteúdos: </strong> <br>
 [<img src = "https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">](https://github.com/h4ckthreat/)
