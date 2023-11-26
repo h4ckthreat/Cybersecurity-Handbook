@@ -42,7 +42,7 @@
 - Acesse as redes sociais da Decrypt Security [Decrypt Security](https://linktr.ee/)
 - Mande feedbacks no [Linkedin](https://www.linkedin.com/in/h4ckthreat/)
 
-## 💡 Nossa proposta
+## 💡 Minha proposta
 
 > A proposta deste guia é fornecer conteúdos para seu estudo, para guiá-lo se você estiver confuso sobre qual o próximo aprendizado, não influenciar você a seguir os 'hypes' e 'trendys' do momento. Acreditamos que com um <b>maior conhecimento das diferentes estruturas e soluções disponíveis poderá escolher a ferramenta que melhor se aplica às suas demandas.</b> E lembre-se, 'hypes' e 'trendys' nem sempre são as melhores opções.
 
