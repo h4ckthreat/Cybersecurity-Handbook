@@ -9,9 +9,9 @@
 
 <p align="justify">Abaixo, você encontrará um rico acervo de recursos destinados a orientar e elevar seu status como profissional na área de segurança da informação. Seja para iniciar sua jornada ou aprimorar suas habilidades já consolidadas, explore este repositório para descobrir novas ferramentas que podem otimizar seu dia a dia, bem como tecnologias que podem ser incorporadas à sua pilha de conhecimento, capacitando-o a se destacar como um profissional atualizado e diferenciado em segurança da informação.</p>
 
-<p align="justify"> Este repositório abrange uma gama diversificada de conteúdos, e embora alguns sites ou artigos possam estar em idiomas diferentes do seu, isso não é obstáculo. A ferramenta de tradução do Google está à sua disposição para transformar barreiras linguísticas em oportunidades de aprendizado. Não hesite em explorar, traduzir e absorver o conhecimento que impulsionará sua carreira na fascinante e crucial área da segurança da informação.</p>
+<p align="justify">Este repositório abrange uma gama diversificada de conteúdos, e embora alguns sites ou artigos possam estar em idiomas diferentes do seu, isso não é obstáculo. A ferramenta de tradução do Google está à sua disposição para transformar barreiras linguísticas em oportunidades de aprendizado. Não hesite em explorar, traduzir e absorver o conhecimento que impulsionará sua carreira na fascinante e crucial área da segurança da informação.</p>
 
-<sub> <strong>Vamos ficar conectados! Siga-me nas redes sociais para receber as últimas atualizações e aproveitar o melhor conteúdo: </strong> <br>
+<sub> <strong>Vamos ficar conectados! Siga-me nas redes sociais para receber as últimas atualizações e aproveitar o melhor conteúdo:</strong> <br>
 [<img src = "https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">](https://github.com/h4ckthreat/)
 [<img src = "https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/h4ckthreat/)
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/h4ckthreat/)
@@ -23,7 +23,7 @@
 
 ## 💌 Doações
 
-<p align="justify"> Olá! Se você está lendo isso, é porque provavelmente já conhece o meu repositório no GitHub, que oferece conteúdo gratuito para ajudar desenvolvedores a aprimorarem suas habilidades. E se você está aqui, talvez esteja considerando contribuir com uma doação para apoiar a continuação do projeto. </p>
+<p align="justify">"Oi! Se você está aqui lendo isso, é porque provavelmente já deu uma passadinha no meu repositório no GitHub, cheio de conteúdo gratuito para impulsionar o crescimento das suas habilidades. E se você está pensando em contribuir com uma doação, saiba que isso faz toda a diferença para manter o projeto vivo e pulsante. Conto com o seu apoio nessa jornada de aprendizado e evolução. Muito obrigado!"</p>
 
 - [Clique aqui para realizar realizar uma doação! 💓](https://beacons.ai/h4ckthreat/)
 
