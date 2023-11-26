@@ -2,7 +2,7 @@
   <a href="https://github.com/h4ckthreat/guiadecybersecurity">
     <img src="./images/guia.png" alt="Guia de Cyber Security" width="160" height="160">
   </a>
-  <h1 align="center">☣️cybersecurity Handbook☣️</h1>
+  <h1 align="center">☣️Cybersecurity Handbook☣️</h1>
 </p>
 
 ## :dart: Um manual para impulsionar sua trajetória profissional.
