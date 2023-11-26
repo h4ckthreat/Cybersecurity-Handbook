@@ -11,7 +11,7 @@
 
 <p align="justify"> Este repositório abrange uma gama diversificada de conteúdos, e embora alguns sites ou artigos possam estar em idiomas diferentes do seu, isso não é obstáculo. A ferramenta de tradução do Google está à sua disposição para transformar barreiras linguísticas em oportunidades de aprendizado. Não hesite em explorar, traduzir e absorver o conhecimento que impulsionará sua carreira na fascinante e crucial área da segurança da informação.</p>
 
-<sub> <strong>"Vamos ficar conectados! Siga-me nas redes sociais para receber as últimas atualizações e aproveitar o melhor conteúdo: </strong> <br>
+<sub> <strong>Vamos ficar conectados! Siga-me nas redes sociais para receber as últimas atualizações e aproveitar o melhor conteúdo: </strong> <br>
 [<img src = "https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">](https://github.com/h4ckthreat/)
 [<img src = "https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/h4ckthreat/)
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/h4ckthreat/)
