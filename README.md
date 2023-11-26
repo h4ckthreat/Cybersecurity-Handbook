@@ -23,7 +23,7 @@
 
 ## 💌 Doações e Contribuições
 
-<p align="justify">Oi! Se você está aqui lendo isso, é porque provavelmente já deu uma passadinha no meu repositório no GitHub, cheio de conteúdo gratuito para impulsionar o crescimento das suas habilidades. E se você está pensando em contribuir com uma doação, saiba que isso faz toda a diferença para manter o projeto vivo e pulsante. Conto com o seu apoio nessa jornada de aprendizado e evolução. Muito obrigado!"</p>
+<p align="justify">Oi! Se você está aqui lendo isso, é porque provavelmente já deu uma passadinha no meu repositório no GitHub, cheio de conteúdo gratuito para impulsionar o crescimento das suas habilidades. E se você está pensando em contribuir com uma doação, saiba que isso faz toda a diferença para manter o projeto vivo e pulsante. Conto com o seu apoio nessa jornada de aprendizado e evolução. Muito obrigado!</p>
 
 - [Clique aqui para realizar realizar uma doação! 💓](https://beacons.ai/h4ckthreat/)
 
