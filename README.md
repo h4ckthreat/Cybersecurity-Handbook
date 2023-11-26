@@ -27,7 +27,7 @@
 
 - [Clique aqui para realizar realizar uma doação! 💓](https://beacons.ai/h4ckthreat/)
 
-<p align="justify">Se a empolgação de colaborar está pulsando em você, há várias opções disponíveis para fazer parte deste movimento! Aceito contribuições via PayPal, PagSeguro, Mercado Pago, Buy Me A Coffee, PicPay e até mesmo pelo método Pix. Não importa o tamanho, cada doação é um impulso incrível e será utilizada com responsabilidade e total transparência.</p>
+<p align="justify">Se a empolgação de contribuir está pulsando em você, há várias opções disponíveis para fazer parte deste movimento! Aceito contribuições via PayPal, PagSeguro, Mercado Pago, Buy Me A Coffee, PicPay e até mesmo pelo método Pix. Não importa o tamanho, cada doação é um impulso incrível e será utilizada com responsabilidade.</p>
 
 <p align="justify">Agradeço de coração por ponderar em apoiar meu projeto! Com sua ajuda, estamos construindo uma comunidade de profissionais em segurança da informação vibrantes e colaborativos. Vamos juntos continuar a compartilhar conhecimento e fortalecer essa jornada de aprendizado. Seu apoio faz toda a diferença. Muito obrigado!</p>
 
