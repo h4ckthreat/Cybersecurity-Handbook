@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/h4ckthreat/guiadecybersecurity">
-    <img src="[./images/guia.png](https://instagram.fmao1-1.fna.fbcdn.net/v/t39.30808-6/397349692_18391811368045387_8827504773696130042_n.jpg?stp=dst-jpg_e15&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDI0eDEwMjQuc2RyIn0&_nc_ht=instagram.fmao1-1.fna.fbcdn.net&_nc_cat=107&_nc_ohc=Dtjtkq32-bgAX-GqEC8&edm=ABmJApAAAAAA&ccb=7-5&ig_cache_key=MzIyNDY2Njk5NDQxNzM4MDQxMw%3D%3D.2-ccb7-5&oh=00_AfBmyTcpF5exRhk_NX6BxSEdHoghkcMoVbAea2JM7h1N9Q&oe=656B6967&_nc_sid=b41fef)" alt="Guia de Cyber Security" width="160" height="160">
+    <img src="./images/handbook-h4ckthreat.png" alt="Guia de Cyber Security" width="160" height="160">
   </a>
   <h1 align="center">☣️Cybersecurity Handbook☣️</h1>
 </p>
