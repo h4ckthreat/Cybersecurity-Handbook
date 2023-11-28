@@ -134,7 +134,7 @@ Agradeço antecipadamente pela sua colaboração e interesse!
 ![Cyber Security roadmap](https://i.imgur.com/eq4uu7P.jpg)
 
 ## 🔧 Ferramentas para tradução de conteúdo
-> Muito do conteúdo desse repositório pode se encontrar em um idioma diferente do Português , desta maneira, fornecemos algumas ferramentas para que você consiga realizar a tradução do conteúdo, lembrando que o intuito desse guia é fornecer todo o conteúdo possível para que você possa se capacitar na área de Cyber Security independente do idioma a qual o material é fornecido, visto que se você possuí interesse em consumir esse material isso não será um empecilho para você continue seus estudos.
+> Muito do conteúdo desse repositório pode se encontrar em um idioma diferente do Português , desta maneira, fornecerei algumas ferramentas para que você consiga realizar a tradução do conteúdo, lembrando que o intuito desse guia é fornecer todo o conteúdo possível para que você possa se capacitar na área de CyberSecurity independente do idioma a qual o material é fornecido, visto que se você possuí interesse em consumir esse material isso não será um empecilho para você continue seus estudos.
 
 - [Google Translate](https://translate.google.com.br/?hl=pt-BR)
 - [Linguee](https://www.linguee.com.br/ingles-portugues/traducao/translate.html)
@@ -142,8 +142,11 @@ Agradeço antecipadamente pela sua colaboração e interesse!
 - [Reverso](https://context.reverso.net/traducao/ingles-portugues/translate)
 
 ## 🧥 Introdução a área de Cyber Security
-> Também chamada de segurança de computadores ou segurança da tecnologia da informação, a cybersecurity é a prática de proteção de hardwares e softwares contra roubo ou danos, como servidores, dispositivos móveis, redes e aplicativos, as pessoas que atuam na área de Cyber Security de uma empresa são responsáveis por identificar todos os pontos vulneráveis do negócio no ambiente digital e em variados sistemas, o trabalho consiste em mapear todos os pontos fracos, que podem ser usados como porta de acesso para ataques virtuais. Além disso, é importante simular todos os possíveis ataques que poderiam ser realizados e criar proteções contra eles, antevendo os fatos para poder reforçar a segurança das informações e a redundância dos processos e sistemas de bancos de dados, a fim de evitar que haja interrupção de serviços, de uma forma geral, é esperado que as pessoas que trabalham com Cyber Security realizem uma série de atividades, tais como:
+> Também conhecida como segurança de computadores ou segurança da tecnologia da informação, a cibersegurança é a prática de proteger hardwares e softwares contra roubo ou danos. Isso inclui servidores, dispositivos móveis, redes e aplicativos. Os profissionais que atuam na área de cibersegurança de uma empresa têm a responsabilidade de identificar todos os pontos vulneráveis no ambiente digital e em diversos sistemas.
 
+O trabalho desses profissionais consiste em mapear todas as potenciais falhas que podem ser exploradas como portas de entrada para ataques virtuais. Além disso, é crucial simular possíveis ataques que poderiam ser realizados e desenvolver proteções contra eles. Antecipar esses eventos permite reforçar a segurança das informações e a redundância dos processos e sistemas de bancos de dados, prevenindo interrupções nos serviços.
+
+De maneira geral, espera-se que os profissionais de cibersegurança realizem uma série de atividades, incluindo:
 - Prever os riscos de sistemas, lojas virtuais e ambientes virtuais de empresas e diminuir possibilidades de ataques;
 - Detectar todas as intrusões e elaborar sistemas de proteção;
 - Criar políticas e planos de acesso a dados e informações;
