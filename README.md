@@ -144,21 +144,32 @@ Agradeço antecipadamente pela sua colaboração e interesse!
 ## 🧥 Introdução a área de Cyber Security
 > Também conhecida como segurança de computadores ou segurança da tecnologia da informação, a cibersegurança é a prática de proteger hardwares e softwares contra roubo ou danos. Isso inclui servidores, dispositivos móveis, redes e aplicativos. Os profissionais que atuam na área de cibersegurança de uma empresa têm a responsabilidade de identificar todos os pontos vulneráveis no ambiente digital e em diversos sistemas.
 
-O trabalho desses profissionais consiste em mapear todas as potenciais falhas que podem ser exploradas como portas de entrada para ataques virtuais. Além disso, é crucial simular possíveis ataques que poderiam ser realizados e desenvolver proteções contra eles. Antecipar esses eventos permite reforçar a segurança das informações e a redundância dos processos e sistemas de bancos de dados, prevenindo interrupções nos serviços.
+> O trabalho desses profissionais consiste em mapear todas as potenciais falhas que podem ser exploradas como portas de entrada para ataques virtuais. Além disso, é crucial simular possíveis ataques que poderiam ser realizados e desenvolver proteções contra eles. Antecipar esses eventos permite reforçar a segurança das informações e a redundância dos processos e sistemas de bancos de dados, prevenindo interrupções nos serviços.
 
 De maneira geral, espera-se que os profissionais de cibersegurança realizem uma série de atividades, incluindo:
-- Prever os riscos de sistemas, lojas virtuais e ambientes virtuais de empresas e diminuir possibilidades de ataques;
-- Detectar todas as intrusões e elaborar sistemas de proteção;
-- Criar políticas e planos de acesso a dados e informações;
-- Implementar e atualizar parâmetros de segurança;
-- Treinar e supervisionar o trabalho do time de Cyber Security;
-- Organizar um sistema eficiente e seguro para colaboradores/as e terceirizados/as;
-- Verificar todas as vulnerabilidades e as falhas responsáveis por elas;
-- Fazer auditorias periódicas nos sistemas;
-- Realizar avaliações de risco em redes, apps e sistemas;
-- Fazer testes de suscetibilidade;
-- Garantir plena segurança ao armazenamento de dados de empresas, lojas virtuais e outros.
 
+- Previsão de Riscos: Antecipar os riscos em sistemas, lojas virtuais e ambientes virtuais de empresas, reduzindo as possibilidades de ataques.
+
+- Detecção de Intrusões: Identificar todas as tentativas de intrusão e desenvolver sistemas de proteção eficazes.
+
+- Elaboração de Políticas e Planos de Acesso: Criar diretrizes e planos para o acesso a dados e informações, garantindo a segurança das informações.
+
+- **Implementação e Atualização de Parâmetros de Segurança: Adotar e manter parâmetros de segurança eficientes, atualizando-os conforme necessário.
+
+- Treinamento e Supervisão da Equipe de Cibersegurança: Capacitar e supervisionar a equipe de Cibersegurança para garantir um trabalho eficaz.
+
+- Organização de Sistemas para Colaboradores e Terceirizados: Estabelecer sistemas eficientes e seguros para colaboradores internos e terceirizados.
+
+- Identificação de Vulnerabilidades e Falhas: Verificar todas as vulnerabilidades e as falhas associadas a elas.
+
+- Auditorias Periódicas nos Sistemas: Realizar auditorias regulares nos sistemas para avaliar sua segurança.
+
+- Avaliações de Risco em Redes, Aplicativos e Sistemas: Conduzir avaliações de risco em redes, aplicativos e sistemas para identificar e mitigar possíveis ameaças.
+
+- Testes de Suscetibilidade: Realizar testes para avaliar a suscetibilidade dos sistemas a diferentes tipos de ataques.
+
+- Garantir Segurança no Armazenamento de Dados:** Assegurar a segurança completa no armazenamento de dados de empresas, lojas virtuais e outros ambientes.
+  
 ## 💼 Carreiras na área de Cyber Security
 > Nesse tópico você irá conhecer mais sobre as carreiras que você pode seguir dentro da área de Cyber Security, você encontrará as profissões em conjunto com um artigo ou video explicativo sobre como funciona.
 
