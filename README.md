@@ -45,7 +45,7 @@
 - Explore as redes sociais da: [Decrypt Security](https://linktr.ee/)
 - Envie feedbacks pelo: [Linkedin](https://www.linkedin.com/in/h4ckthreat/)
 
-Agradeço antecipadamente pela sua colaboração e interesse!"
+Agradeço antecipadamente pela sua colaboração e interesse!
 
 ## 💡 Minha proposta
 
