@@ -49,11 +49,11 @@ Agradeço antecipadamente pela sua colaboração e interesse!
 
 ## 💡 Minha proposta
 
-> A proposta deste guia é fornecer conteúdos para seu estudo, para guiá-lo se você estiver confuso sobre qual o próximo aprendizado, não influenciar você a seguir os 'hypes' e 'trendys' do momento. Acreditamos que com um <b>maior conhecimento das diferentes estruturas e soluções disponíveis poderá escolher a ferramenta que melhor se aplica às suas demandas.</b> E lembre-se, 'hypes' e 'trendys' nem sempre são as melhores opções.
+> A finalidade deste guia é disponibilizar conteúdos para o seu estudo, oferecendo orientação quando estiver em dúvida sobre qual será seu próximo passo de aprendizado, sem influenciar a adesão indiscriminada a modismos e tendências momentâneas. Acredito que ao adquirir um conhecimento mais abrangente sobre as diversas estruturas e soluções disponíveis, você estará capacitado a escolher a ferramenta que melhor atenda às suas necessidades específicas. É importante ter em mente que seguir tendências nem sempre resulta na escolha da opção mais adequada.
 
-## :beginner: Para quem está começando agora
+## :beginner: Para aqueles que estão dando os primeiros passos
 
-> Não se assuste com a quantidade de conteúdo apresentados neste guia. Acredito que quem está começando pode usá-lo não como um objetivo, mas como um apoio para os estudos. <b>Neste momento, dê enfoque no que te dá produtividade e o restante marque como <i>Ver depois</i></b>. Ao passo que seu conhecimento se torna mais amplo, a tendência é este guia fazer mais sentido e fácil de ser assimilado. Bons estudos e entre em contato sempre que quiser! :punch:
+> Não se sinta sobrecarregado pela quantidade de conteúdo apresentada neste handbook. Sugiro que, para quem está começando, encare-o não como um objetivo final, mas como um suporte para os estudos. <b>No momento, concentre-se naquilo que aumenta sua produtividade, deixando o restante para ser explorado posteriormente</b>. À medida que sua compreensão se aprofunda, esse guia tende a se tornar mais coerente e fácil de assimilar. Desejo a você um ótimo período de estudos e esteja à vontade para entrar em contato sempre que precisar! :punch:
 
 ## 🚨 Colabore
 
