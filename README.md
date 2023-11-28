@@ -154,7 +154,7 @@ De maneira geral, espera-se que os profissionais de cybersecurity realizem uma s
 
 - Elaboração de Políticas e Planos de Acesso: Criar diretrizes e planos para o acesso a dados e informações, garantindo a segurança das informações.
 
-- **Implementação e Atualização de Parâmetros de Segurança: Adotar e manter parâmetros de segurança eficientes, atualizando-os conforme necessário.
+- Implementação e Atualização de Parâmetros de Segurança: Adotar e manter parâmetros de segurança eficientes, atualizando-os conforme necessário.
 
 - Treinamento e Supervisão da Equipe de Cibersegurança: Capacitar e supervisionar a equipe de Cibersegurança para garantir um trabalho eficaz.
 
@@ -168,7 +168,7 @@ De maneira geral, espera-se que os profissionais de cybersecurity realizem uma s
 
 - Testes de Suscetibilidade: Realizar testes para avaliar a suscetibilidade dos sistemas a diferentes tipos de ataques.
 
-- Garantir Segurança no Armazenamento de Dados:** Assegurar a segurança completa no armazenamento de dados de empresas, lojas virtuais e outros ambientes.
+- Garantir Segurança no Armazenamento de Dados: Assegurar a segurança completa no armazenamento de dados de empresas, lojas virtuais e outros ambientes.
   
 ## 💼 Carreiras na área de Cyber Security
 > Nesse tópico você irá conhecer mais sobre as carreiras que você pode seguir dentro da área de Cyber Security, você encontrará as profissões em conjunto com um artigo ou video explicativo sobre como funciona.
