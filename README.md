@@ -41,9 +41,9 @@
 > Antes de tudo, gostaria de solicitar a sua colaboração após o árduo trabalho de criação e organização deste repositório, que visa facilitar seus estudos ou projetos. Sua ajuda pode ser valiosa das seguintes maneiras:
 
 - Siga-me no [Github](https://github.com/h4ckthreat/)
-- Acesse as redes sociais do Low Level Club: [Low Level Club](https://linktr.ee/)
-- Explore as redes sociais da Decrypt Security: [Decrypt Security](https://linktr.ee/)
-- Envie feedbacks pelo [Linkedin](https://www.linkedin.com/in/h4ckthreat/)
+- Acesse as redes sociais do: [Low Level Club](https://linktr.ee/)
+- Explore as redes sociais da: [Decrypt Security](https://linktr.ee/)
+- Envie feedbacks pelo: [Linkedin](https://www.linkedin.com/in/h4ckthreat/)
 
 Agradeço antecipadamente pela sua colaboração e interesse!"
 
