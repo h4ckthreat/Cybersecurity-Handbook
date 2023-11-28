@@ -55,14 +55,14 @@ Agradeço antecipadamente pela sua colaboração e interesse!
 
 > Não se sinta sobrecarregado pela quantidade de conteúdo apresentada neste handbook. Sugiro que, para quem está começando, encare-o não como um objetivo final, mas como um suporte para os estudos. <b>No momento, concentre-se naquilo que aumenta sua produtividade, deixando o restante para ser explorado posteriormente</b>. À medida que sua compreensão se aprofunda, esse guia tende a se tornar mais coerente e fácil de assimilar. Desejo a você um ótimo período de estudos e esteja à vontade para entrar em contato sempre que precisar! :punch:
 
-## 🚨 Colabore
+## 🚨 Contribua de diversas maneiras:
 
-- Abra Pull Requests com atualizações
-- Discuta ideias em Issues
-- Compartilhe o repositório com a sua comunidade
+- Envie Pull Requests para propor atualizações.
+- Participe de discussões e compartilhe ideias nas Issues.
+- Divulgue o repositório com a sua comunidade.
 
 ## 🌍 Tradução
-> Se você deseja acompanhar esse repositório em outro idioma que não seja o Português , você pode optar pelas escolhas de idiomas abaixo, você também pode colaborar com a tradução para outros idiomas e a correções de possíveis erros ortográficos, a comunidade agradece.
+> Caso prefira seguir este repositório em um idioma diferente do português, você pode escolher entre as opções de idiomas abaixo. Além disso, você tem a oportunidade de colaborar, contribuindo com traduções para outros idiomas e corrigindo eventuais erros ortográficos. A comunidade de segurabça agradece pela sua participação.
 
 <img src = "https://i.imgur.com/lpP9V2p.png" alt="Guia Extenso de Programação" width="16" height="15">・<b>English — </b> [Click Here](https://github.com/h4ckthreat/guiadecybersecurity/)<br>
 <img src = "https://i.imgur.com/GprSvJe.png" alt="Guia Extenso de Programação" width="16" height="15">・<b>Spanish — </b> [Click Here](https://github.com/h4ckthreat/guiadecybersecurity/)<br>
