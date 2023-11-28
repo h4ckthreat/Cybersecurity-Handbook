@@ -146,7 +146,7 @@ Agradeço antecipadamente pela sua colaboração e interesse!
 
 > O trabalho desses profissionais consiste em mapear todas as potenciais falhas que podem ser exploradas como portas de entrada para ataques virtuais. Além disso, é crucial simular possíveis ataques que poderiam ser realizados e desenvolver proteções contra eles. Antecipar esses eventos permite reforçar a segurança das informações e a redundância dos processos e sistemas de bancos de dados, prevenindo interrupções nos serviços.
 
-De maneira geral, espera-se que os profissionais de cibersegurança realizem uma série de atividades, incluindo:
+De maneira geral, espera-se que os profissionais de cybersecurity realizem uma série de atividades, incluindo:
 
 - Previsão de Riscos: Antecipar os riscos em sistemas, lojas virtuais e ambientes virtuais de empresas, reduzindo as possibilidades de ataques.
 
