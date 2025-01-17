@@ -42,7 +42,7 @@
 
 - Siga-me no [Github](https://github.com/h4ckthreat/)
 - Acesse as redes sociais do: [Low Level Club](https://linktr.ee/)
-- Explore as redes sociais da: [Decrypt Security](https://linktr.ee/)
+- Explore as redes sociais do: [h4ckthreat](https://linktr.ee/)
 - Envie feedbacks pelo: [Linkedin](https://www.linkedin.com/in/h4ckthreat/)
 
 Agradeço antecipadamente pela sua colaboração e interesse!
