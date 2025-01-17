@@ -24,7 +24,7 @@
 
 <p align="justify">Oi! Se você está aqui lendo isso, é porque provavelmente já deu uma passadinha no meu repositório no GitHub, cheio de conteúdo gratuito para impulsionar o crescimento das suas habilidades. E se você está pensando em contribuir com uma doação, saiba que isso faz toda a diferença para manter o projeto vivo e pulsante. Conto com o seu apoio nessa jornada de aprendizado e evolução. Muito obrigado!</p>
 
-- [Clique aqui para realizar realizar uma doação! 💓](https://beacons.ai/h4ckthreat/)
+ <!– - [Clique aqui para realizar realizar uma doação! 💓](https://beacons.ai/h4ckthreat/) –>
 
 <p align="justify">Se a empolgação de contribuir está pulsando em você, há várias opções disponíveis para fazer parte deste movimento! Aceito contribuições via PayPal, PagSeguro, Mercado Pago, Buy Me A Coffee, PicPay e até mesmo pelo método Pix. Não importa o tamanho, cada doação é um impulso incrível e será utilizada com responsabilidade.</p>
 
