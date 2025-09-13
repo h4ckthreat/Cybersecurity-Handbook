@@ -729,7 +729,7 @@ De maneira geral, espera-se que os profissionais de cybersecurity realizem uma s
 - [The Cyber Security Hub™](https://www.instagram.com/thecybersecurityhub/)
 - [Darshit Pandey | Cyber Security](https://www.instagram.com/cyberrabitx/)
 - [Harsha | Cyber Security](https://www.instagram.com/cyberrpreneur/)
-- [Decrypt Security](https://www.instagram.com/decryptsec/)
+- [Low Level Club](https://www.instagram.com/lowlevelclub/)
 - [Jadson Lima (h4ckthreat)](https://www.instagram.com/h4ckthreat/)
 - [Carolina Trigo](https://www.instagram.com/hacknlearn/)
 - [Lucas Gates](https://www.instagram.com/lucasgateshacker/)
