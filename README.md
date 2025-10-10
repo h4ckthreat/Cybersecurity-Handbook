@@ -753,6 +753,7 @@ De maneira geral, espera-se que os profissionais de cybersecurity realizem uma s
 - [Boitatech](https://discord.gg/6bqBdyJ9PA)
 - [Mente Binaria](https://menteb.in/discord)
 - [Guia Anônima ](https://discord.gg/GzrMtXvuAM)
+- [Universidade Hacker](https://discord.com/invite/rWwmqKB3Q)
 - [Comunidade Conecta](https://discord.gg/3hWYewJemP)
 - [Central Help CTF](https://discord.gg/5xWJBXSaJe)
 - [Menina do CyberSec](https://discord.gg/aCSxhGK6hK)
