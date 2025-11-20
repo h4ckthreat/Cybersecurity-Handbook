@@ -554,6 +554,7 @@ De maneira geral, espera-se que os profissionais de cybersecurity realizem uma s
 - [Certificações em Cibersegurança - Fábio Augusto](https://youtu.be/b7Pwl3RGo9E)
 - [Mobile Security - Oryon Farias](https://youtu.be/oMmzSbaj3Gk)
 - [Hacking: Uma História - Anderson Ramos](https://www.youtube.com/watch?v=CNYN0bTRW2w)
+- [Ataques de Fault Injection com Ênfase em Ultrassom - Julio Della Flora](https://www.youtube.com/watch?v=ueSMLYO1eXw)
 
 ## 🃏 CheatSheets
 
