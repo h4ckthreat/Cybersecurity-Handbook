@@ -555,6 +555,7 @@ De maneira geral, espera-se que os profissionais de cybersecurity realizem uma s
 - [Mobile Security - Oryon Farias](https://youtu.be/oMmzSbaj3Gk)
 - [Hacking: Uma História - Anderson Ramos](https://www.youtube.com/watch?v=CNYN0bTRW2w)
 - [Ataques de Fault Injection com Ênfase em Ultrassom - Julio Della Flora](https://www.youtube.com/watch?v=ueSMLYO1eXw)
+- [Criando Backdoor Dentro de um Executável - Rafael Sousa](https://www.youtube.com/watch?v=aesxZkODj0k)
 
 ## 🃏 CheatSheets
 
