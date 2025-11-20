@@ -553,6 +553,7 @@ De maneira geral, espera-se que os profissionais de cybersecurity realizem uma s
 - [Engenharia Social e Humand Hacking - Marina Ciavatta](https://youtu.be/7mj2i2E5QMI)
 - [Certificações em Cibersegurança - Fábio Augusto](https://youtu.be/b7Pwl3RGo9E)
 - [Mobile Security - Oryon Farias](https://youtu.be/oMmzSbaj3Gk)
+- [Hacking: Uma História - Anderson Ramos](https://www.youtube.com/watch?v=CNYN0bTRW2w)
 
 ## 🃏 CheatSheets
 
@@ -604,6 +605,7 @@ De maneira geral, espera-se que os profissionais de cybersecurity realizem uma s
 > Séries
 - [Mr. Robot - Sociedade Hacker](https://www.primevideo.com/detail/0ND5POOAYD6A4THTH7C1TD3TYE/ref=atv_sr_fle_c_Tn74RA_1_1_1?sr=1-1&pageTypeIdSource=ASIN&pageTypeId=B01MG2G8V7&qid=1693019742298)
 - [Don't F**k with Cats: Uma Caçada Online](https://www.netflix.com/br/title/81031373)
+- [Dia Zero]([https://www.netflix.com/br/title/81031373](https://www.netflix.com/br/title/81598435))
 
 ## 🚩 Capture the Flag
 
