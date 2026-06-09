@@ -436,6 +436,8 @@ De maneira geral, espera-se que os profissionais de cybersecurity realizem uma s
 - [Null Byte](https://www.youtube.com/c/NullByteWHT) - Segurança cibernética para hackers éticos e cientistas da computação.
 - [LiveOverflow](https://www.youtube.com/c/LiveOverflow) - Envolve hacking, vídeos de gravação e capture the flags.
 - [The PC Security Channel](https://www.youtube.com/c/thepcsecuritychannel) - Segurança do Windows, notícias sobre malware e tutoriais.
+- [Coach De Osasco](https://www.youtube.com/@coachdeosasco) - Segurança da informação, privacidade digital, tutoriais de ferramentas de proteção e conceitos de redes e hacking.
+
 
 ## 🔎 Ferramentas de busca
 
