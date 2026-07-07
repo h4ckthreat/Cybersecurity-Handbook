@@ -883,6 +883,7 @@ De maneira geral, espera-se que os profissionais de cybersecurity realizem uma s
 - [Xerror](https://github.com/Chudry/Xerror)
 - [Mongoaudit](https://github.com/stampery/mongoaudit)
 - [Pentesting Scripts](https://github.com/killswitch-GUI/PenTesting-Scripts)
+- [Darkmoon](https://github.com/ASCIT31/Dark-Moon)
 - [TxTool](https://github.com/kuburan/txtool)
 - [All Pentesting Tools](https://github.com/nullsecuritynet/tools)
 
