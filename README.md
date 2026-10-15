@@ -791,6 +791,7 @@ De maneira geral, espera-se que os profissionais de cybersecurity realizem uma s
 ## 📚 Recomendações de livros
 
 > Recomendação de livros para aprimoramento do conhecimento em Cyber Security em Português 
+- [Confronto Cibernético: técnicas e táticas de enfrentamento e resposta a APTs](https://confrontocibernetico.com.br/) — Hiago Kin Levi, Editora Brasport; livro em português sobre investigação e resposta a incidentes, com trechos públicos por tema.
 - [Introdução ao Pentest](https://www.amazon.com.br/Introdu%C3%A7%C3%A3o-ao-Pentest-Daniel-Moreno/dp/8575228072/ref=asc_df_8575228072/?tag=googleshopp00-20&linkCode=df0&hvadid=379773616949&hvpos=&hvnetw=g&hvrand=3870620309104752989&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001506&hvtargid=pla-850530960141&psc=1)
 - [Pentest em Aplicações web](https://www.amazon.com.br/Pentest-Aplica%C3%A7%C3%B5es-Web-Daniel-Moreno/dp/8575226134/ref=pd_bxgy_img_sccl_1/145-1578869-2329559?pd_rd_w=2dTdj&content-id=amzn1.sym.57f5b0c5-8f2e-45a4-8595-2eb0fcbe85cd&pf_rd_p=57f5b0c5-8f2e-45a4-8595-2eb0fcbe85cd&pf_rd_r=DSSS27BQRN1MT8XSNT55&pd_rd_wg=smd9N&pd_rd_r=cc5197e3-0659-4e91-98fd-07a7b7b3c6aa&pd_rd_i=8575226134&psc=1)
 - [Pentest em Redes sem fio](https://www.amazon.com.br/Pentest-em-Redes-sem-Fio/dp/8575224832/ref=pd_bxgy_img_sccl_2/145-1578869-2329559?pd_rd_w=2dTdj&content-id=amzn1.sym.57f5b0c5-8f2e-45a4-8595-2eb0fcbe85cd&pf_rd_p=57f5b0c5-8f2e-45a4-8595-2eb0fcbe85cd&pf_rd_r=DSSS27BQRN1MT8XSNT55&pd_rd_wg=smd9N&pd_rd_r=cc5197e3-0659-4e91-98fd-07a7b7b3c6aa&pd_rd_i=8575224832&psc=1)
